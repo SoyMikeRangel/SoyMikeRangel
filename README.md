@@ -20,10 +20,13 @@
     <img src="https://img.shields.io/badge/Follow%20Me-%23000?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me on GitHub" style="margin-bottom: 5px;"/>
   </a>
   <a href="https://www.instagram.com/iamsiddharthaa2" target="_blank">
-  <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt="SoyMikeRangel" Instagram style="margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="SoyMikeRangel Instagram" style="margin-bottom: 5px;"/>
   </a>
   <a href="https://x.com/MikeRangelMR" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="SoyMikeRangel Twitter" style="margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="SoyMikeRangel Twitter" style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://discord.com/users/soymikerangel_" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Enviar mensaje en Discord" style="margin-bottom: 5px;"/>
   </a>
 </p>
 
