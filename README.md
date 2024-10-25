@@ -81,9 +81,13 @@
 <br />
 
 <div align="center">
+  <a href="#">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoyMikeRangel&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+  </a>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  </a>
 </p>
