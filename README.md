@@ -63,8 +63,8 @@
     <td width="50%">
       <h3 align="center"><strong>Latest Project</strong></h3>
       <p align="center">
-        <a href="https://github.com/SoyMikeRangel/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=SoyMikeRangel&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        <a href="https://github.com/SoyMikeRangel/SkyWars-Mike">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=SoyMikeRangel&repo=SkyWars-Mike&theme=nightowl&show_owner=true" />
         </a>
       </p>
     </td>
