@@ -35,7 +35,7 @@
 <h2 align="center">Lenguages and Tools</h2> 
 <p align="center">
     <a href="#">
-      <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,php,react,vue,django,md,git,phpstorm,vscode,docker,aws,azure,linux&perline=10"  />
+      <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,php,react,git,phpstorm,vscode,docker,aws,azure,linux&perline=10"  />
     </a>
 </p>
 <br />
